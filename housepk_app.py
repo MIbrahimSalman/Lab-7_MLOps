@@ -1,5 +1,5 @@
 # app.py
-print("Branch 2 is now running!")
+print("Branch 1 and Branch 2 have been merged!")
 import os
 import joblib
 import numpy as np
